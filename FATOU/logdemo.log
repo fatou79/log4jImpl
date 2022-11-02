@@ -1,0 +1,6 @@
+18:22:40.855 [main] TRACE com.fatou.App - We've just greeted the user!
+18:22:40.860 [main] DEBUG com.fatou.App - We've just greeted the user!
+18:22:40.860 [main] INFO  com.fatou.App - We've just greeted the user!
+18:22:40.860 [main] WARN  com.fatou.App - We've just greeted the user!
+18:22:40.861 [main] ERROR com.fatou.App - We've just greeted the user!
+18:22:40.861 [main] FATAL com.fatou.App - We've just greeted the user!
